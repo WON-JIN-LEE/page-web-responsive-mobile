@@ -1,0 +1,8 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.home__img img {
+  width: 400px;
+  height: 300px;
+}
